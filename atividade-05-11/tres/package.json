@@ -1,0 +1,15 @@
+{
+  "name": "tres",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
