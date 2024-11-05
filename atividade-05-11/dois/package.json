@@ -1,0 +1,12 @@
+{
+  "name": "media",
+  "version": "1.0.0",
+  "description": "um lib pra calcular medias",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
